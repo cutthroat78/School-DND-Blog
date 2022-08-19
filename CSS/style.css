@@ -38,3 +38,12 @@
     font-family: Donjonikons;
     src: url(Fonts/DonjonikonsRegular-VABy.ttf);
     }
+
+html {
+    color: white;
+    background-image: url('../Images/d20.jpg');
+    font-size: 20px;
+    background-blend-mode: multiply;
+    background-color: rgba(0,0,0,0.75);
+}
+
